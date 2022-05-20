@@ -20,7 +20,8 @@ the question, We designed a deep learning neural network that gives machines
 the ability to make inferences about our emotional states. In other words, we 
 give them eyes to see what we can see.
 
-![image](https://user-images.githubusercontent.com/93440576/169586658-fa16812e-e3c6-4e5a-9d0f-bd60102e790e.png)
+<img align = "centre">![image](https://user-images.githubusercontent.com/93440576/169586658-fa16812e-e3c6-4e5a-9d0f-bd60102e790e.png)
+
 
 
 
